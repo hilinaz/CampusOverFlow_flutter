@@ -1,0 +1,89 @@
+.env
+node_modules
+packages
+pubspec.lock        
+.idea
+# Flutter specific      
+.flutter-plugins
+.flutter-plugins-dependencies   
+.packages
+# Build outputs     
+build/
+# IntelliJ specific         
+*.iml
+# VS Code specific                  
+.vscode/
+# MacOS specific            
+.DS_Store
+# Android specific
+android/.gradle
+android/app/debug.keystore
+# iOS specific
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Pods
+ios/Runner.xcworkspace
+# Web specific
+web/.dart_tool
+web/.packages
+# Linux specific    
+linux/.dart_tool    
+linux/.packages 
+# Windows specific
+windows/.dart_tool          
+windows/.packages
+# Generated files
+pubspec.yaml    
+pubspec.yaml.lock
+# Coverage files
+coverage/   
+# Miscellaneous
+.idea/
+# Temporary files
+temp/           
+# Logs
+logs/
+# Backup files
+backup/
+# Documentation
+docs/       
+# Test files
+test_coverage/          
+
+# Local configuration files
+local_config.json
+# Environment variables
+.env.local
+# Custom build scripts
+build_script.sh     
+# Third-party libraries
+third_party/        
+# Generated documentation
+docs/generated/     
+# Temporary cache files
+cache/  
+# User-specific files
+user_settings.json  
+# IDE specific files
+.idea_modules/
+# Flutter generated files
+.flutter-plugins        
+.flutter-plugins-dependencies
+# Dart specific                 
+.dart_tool/
+
+
+# Flutter web specific
+web/index.html        
+# Flutter desktop specific
+linux/flutter/ephemeral
+# Flutter iOS specific  
+ios/Flutter/App.framework
+ios/Flutter/engine  
+ios/Flutter/Flutter.podspec
+# Flutter Android specific  
+android/app/src/main/AndroidManifest.xml
+android/app/src/main/res/values/strings.xml
+# Flutter macOS specific    
+macos/Flutter/ephemeral
