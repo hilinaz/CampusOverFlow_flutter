@@ -43,3 +43,18 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+pubspec.lock
+pubspec.yaml
+
+# iOS build artifacts   
+/ios/Pods       
+/ios/Runner.xcworkspace
+/ios/Flutter/Flutter.framework                      
+/ios/Flutter/Flutter.podspec
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/App.framework  
+/ios/Flutter/App.podspec
+# Web build artifacts
+/web/.dart_tool     
+/web/.packages
+
