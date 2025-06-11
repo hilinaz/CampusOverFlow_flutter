@@ -7,7 +7,7 @@ class ApiConfig {
     // For physical device, use your computer's IP address
     const String emulatorIp = '10.0.2.2';
     const String physicalDeviceIp =
-        '192.168.61.168'; // User's specific IP address
+        '192.168.132.154'; // User's specific IP address
 
     if (kIsWeb) {
       // For web platform, localhost refers to the host machine
